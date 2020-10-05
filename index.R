@@ -1,8 +1,8 @@
 print("Hello World")
 print("How you do")
 
-product<-"Cocacola"
-qty<-24
-price<-12.8768
+product1<-"Cocacola"
+qty1<-24
+price1<-12.8768
 print("Total =")
-qty*price
+qty1*price1
